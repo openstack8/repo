@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:canary
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.15.0
