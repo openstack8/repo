@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-scheduler-amd64:v1.6.2
+FROM docker.bintray.io/jfrog/nginx-artifactory-pro:6.1.0
