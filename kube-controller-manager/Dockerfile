@@ -1,1 +1,1 @@
-FROM docker.bintray.io/jfrog/artifactory-pro:6.1.0
+FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.11.3
