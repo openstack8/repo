@@ -1,1 +1,1 @@
-FROM docker.bintray.io/postgres:9.5.2
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.11.3
