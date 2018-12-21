@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.10.0-amd64
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.13.0
