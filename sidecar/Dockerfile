@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/defaultbackend:1.4
+FROM guay.io/coreos/kube-state-metrics:v1.4.0
